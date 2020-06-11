@@ -1,5 +1,5 @@
 # react-calculator
 > My first project of reactjs.
-## project-image
-![](/demo-pic.png =200x)
+## project-image <br>
+<img src = "/demo-pic.png" width = "200">
 
